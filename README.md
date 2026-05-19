@@ -5,7 +5,7 @@
 Tenho 24 anos, sou de Manaus - AM, e atualmente curso Engenharia da Computação na Uninorte. Sou apaixonado por tecnologia e estou sempre desenvolvendo projetos que unem código e impacto real, com foco em desenvolvimento web, mobile e qualidade de software (QA).
 
 <p align="left">
-    <img alt="Visitas ao perfil" src="https://komarev.com/ghpvc/?username=Samuelvf23&label=Visitas%20no%20perfil&color=236ad3&style=for-the-badge" />
+    <img alt="Visitas ao perfil" src="https://komarev.com/ghpvc/?username=Samuelvf123&label=Visitas%20no%20perfil&color=236ad3&style=for-the-badge" />
 </p>
 
 <p align="left">
@@ -16,18 +16,18 @@ Tenho 24 anos, sou de Manaus - AM, e atualmente curso Engenharia da Computação
             src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Samuelvf23?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Samuelvf123?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Samuelvf23?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Samuelvf123?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Samuelvf23?tab=followers">
+    <a href="https://github.com/Samuelvf123?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Samuelvf23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Samuelvf123?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -83,12 +83,12 @@ Em desenvolvimento contínuo na área de QA, com interesse e estudo em:
 ### 📊 Estatísticas
 
 <p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Samuelvf23&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="Tecnologias mais usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelvf23&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Samuelvf123&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img align="left" alt="Tecnologias mais usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelvf123&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
 <br clear="both"/>
 
 <p>
-  <img alt="Troféus" src="https://github-profile-trophy.vercel.app/?username=Samuelvf23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img alt="Troféus" src="https://github-profile-trophy.vercel.app/?username=Samuelvf123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
