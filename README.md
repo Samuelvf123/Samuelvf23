@@ -1,10 +1,12 @@
-# 👩🏻‍💻 Samuelv23
-
 # 👋 Olá, eu sou o Samuel Vieira Filgueiras
 
-**`Estudante de Engenharia da Computação`**
+**`Estudante de Engenharia da Computação`** | **`Em busca de oportunidades em QA e Desenvolvimento`**
 
 Tenho 24 anos, sou de Manaus - AM, e atualmente curso Engenharia da Computação na Uninorte. Sou apaixonado por tecnologia e estou sempre desenvolvendo projetos que unem código e impacto real, com foco em desenvolvimento web, mobile e qualidade de software (QA).
+
+<p align="left">
+    <img alt="Visitas ao perfil" src="https://komarev.com/ghpvc/?username=Samuelvf23&label=Visitas%20no%20perfil&color=236ad3&style=for-the-badge" />
+</p>
 
 <p align="left">
     <a href="https://www.instagram.com/samuelveira/">
@@ -51,18 +53,20 @@ Tenho 24 anos, sou de Manaus - AM, e atualmente curso Engenharia da Computação
 <br/>
 <br/>
 
+### 🧪 Qualidade de Software (QA)
+
+Em desenvolvimento contínuo na área de QA, com interesse e estudo em:
+
+- Fundamentos de teste de software (testes manuais e automatizados)
+- Ferramentas de automação de testes
+- Gestão de projetos e bugs com **Jira** e **Azure DevOps**
+- Documentação e casos de teste
+
+<br/>
+
 ### 🚀 Projetos em Destaque
 
 - **Mapa da Solidariedade** — plataforma social de geolocalização que conecta pessoas em situação de vulnerabilidade a voluntários, igrejas e ONGs. *(Flutter / Angular, Python / Java, MySQL / Firebase, Google Maps API)*
 - **Essência Artesanal** — loja virtual para a venda de produtos artesanais.
 
-> *"Levai as cargas uns dos outros, e assim cumprireis a lei de Cristo."* — Gálatas 6:2
-
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Samuelvf23&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="Tecnologias mais usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelvf23&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
+> *"Levai as cargas uns dos outros, e assim cumprireis a lei de Cristo."* — Gálatas
